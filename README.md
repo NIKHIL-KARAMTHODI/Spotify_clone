@@ -76,7 +76,7 @@ git push origin feature-name
 
 ---
 
-🙌 Acknowledgements
+## 🙌 Acknowledgements
 
 This project was built as part of the learning programs conducted by LetsUpgrade.
 
