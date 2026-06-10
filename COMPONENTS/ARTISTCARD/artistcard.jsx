@@ -1,6 +1,6 @@
 import React from 'react'
 import './artistcard.css'
-import { ArtistList } from './CONFIG/config'
+import { ArtistList } from './config'
 
 const ArtistCard = ({setCurrentPage}) => {
     return (
