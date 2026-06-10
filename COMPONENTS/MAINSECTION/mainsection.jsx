@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import './mainsection.css';
 import Trending from '../../COMPONENTS/TRENDING/trending';
 import PopularArtist from '../../COMPONENTS/POPULARARTISTS/popularartist';
-import SpecificMusicFile from '../../PAGES/SPECIFIC_MUSIC_PAGE/specificmusicfile';
+import SpecificMusicFile from '../../specificmusicfile';
 
 
 const MainSection = () => {
