@@ -1,6 +1,6 @@
 import React from 'react';
 import './trendingcard.css';
-import { TrendingCardData } from '../../CONFIG/config';
+import { TrendingCardData } from '../config';
 
 const TrendingCard = ({ setCurrentPage, setCurrentFile }) => {
   return (
